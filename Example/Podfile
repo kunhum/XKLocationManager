@@ -1,10 +1,10 @@
 use_frameworks!
 
-platform :ios, '8.0'
+platform :ios, '10.0'
 
 target 'XKLocationManager_Example' do
   pod 'XKLocationManager', :path => '../'
-
+  
   target 'XKLocationManager_Tests' do
     inherit! :search_paths
 

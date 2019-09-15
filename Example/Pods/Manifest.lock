@@ -1,0 +1,16 @@
+PODS:
+  - XKLocationManager (1.0.0)
+
+DEPENDENCIES:
+  - XKLocationManager (from `../`)
+
+EXTERNAL SOURCES:
+  XKLocationManager:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  XKLocationManager: a39d759352feadc0e048a4758f5062cc9f3da63d
+
+PODFILE CHECKSUM: 6dc52f8d5edd52012006d31348053067d110143b
+
+COCOAPODS: 1.7.1

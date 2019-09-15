@@ -1,0 +1,6 @@
+framework module XKLocationManager {
+  umbrella header "XKLocationManager-umbrella.h"
+
+  export *
+  module * { export * }
+}
