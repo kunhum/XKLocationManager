@@ -7,33 +7,33 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		02362453C2AF428D56DFE2AB36069059 /* Pods-XKLocationManager_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 4345EA3BF826030359B0332A1AAF5EF0 /* Pods-XKLocationManager_Example-dummy.m */; };
-		3BFDFD18CC2683A19368A9139F98E60D /* XKLocationManager-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 5F7BACCC88E1D484D7F807C8CA00994F /* XKLocationManager-dummy.m */; };
-		4D230ED74C203E9E29A37B32496D6628 /* Pods-XKLocationManager_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = C1F77409E3954036A6D8D1B3C067D481 /* Pods-XKLocationManager_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		5D5FB234003EB9979DE514DD6696E974 /* Pods-XKLocationManager_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 0FB7053CD6424BB9763CF3B577774845 /* Pods-XKLocationManager_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		7103B7A1962F2725C6F844450A03EF8A /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
-		BF965B9CDCBFA3E6ABE7F69AB3B87D61 /* XKLocationManager-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = B4DA56C9828D2C84C02634792A27ACF0 /* XKLocationManager-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		C6E918AD8A3261154684B8202FDD984E /* XKLocationManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 2513053A7840BF14EDC5C5CA666930F3 /* XKLocationManager.m */; };
-		D33F9CCF035DAF5BAB89A926A4621B1E /* Pods-XKLocationManager_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 98F1C7C94E10912770207EB5066127A8 /* Pods-XKLocationManager_Tests-dummy.m */; };
-		DBC01F78E3C0BE75C8CE4F03E3F1AF90 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
-		F495433DBF0619EF177A6623E2C71308 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
-		FB0694FE998D56D26FB2CC664BECF5E9 /* XKLocationManager.h in Headers */ = {isa = PBXBuildFile; fileRef = 2460C3106D3F14DCCCA3ECE1D5CF1DAC /* XKLocationManager.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		0D4E1030DCADAD78123AF037B540F7E4 /* Pods-XKLocationManager_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 4345EA3BF826030359B0332A1AAF5EF0 /* Pods-XKLocationManager_Example-dummy.m */; };
+		27FF7825342E9A89F0931304DCA4C00D /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
+		3ADA6AC2050BF4EABA71926FAC995544 /* XKLocationManager.h in Headers */ = {isa = PBXBuildFile; fileRef = A2AFB243D4C0B4C8FA99C70B50452587 /* XKLocationManager.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		4370099D6E2182B0E419F631F26BB814 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
+		60ACED9D543780C64D049C7AF5BA2036 /* XKLocationManager-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 34A2F497E7029AE538BAD3B02DB50D1C /* XKLocationManager-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		634D4F5F870BE9F1D0FA9DC1246F76C2 /* Pods-XKLocationManager_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 0FB7053CD6424BB9763CF3B577774845 /* Pods-XKLocationManager_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		67652A5490A69A0233EF40502AAF301D /* Pods-XKLocationManager_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = C1F77409E3954036A6D8D1B3C067D481 /* Pods-XKLocationManager_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		6E3C909E4F9140E7FCD33F8120B889DB /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
+		AB971D8802BEF3FE0FC1F141A080D98C /* Pods-XKLocationManager_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 98F1C7C94E10912770207EB5066127A8 /* Pods-XKLocationManager_Tests-dummy.m */; };
+		D22401F3B7B8E73109C943DAC4CA4224 /* XKLocationManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 9738435B2C02912F30C12A7E2F52C5E6 /* XKLocationManager.m */; };
+		F302D14C4C1E49D4A2E960FF5C19C722 /* XKLocationManager-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 5B98DB5D80BD330A03752329EE28F010 /* XKLocationManager-dummy.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		A575E2756D6D5638DAD9A4F6C71F544D /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = B201DC970684CCCF42A12616AFB03785;
-			remoteInfo = "Pods-XKLocationManager_Example";
-		};
-		D31C4CDE8E8D4A5686926F389B538A0F /* PBXContainerItemProxy */ = {
+		9530E53DED627B329E881996865DF246 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 1F019E07DA072DBE602E7447C1A72B15;
 			remoteInfo = XKLocationManager;
+		};
+		C95928851539F0343AE1904AE317A9BD /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = B201DC970684CCCF42A12616AFB03785;
+			remoteInfo = "Pods-XKLocationManager_Example";
 		};
 /* End PBXContainerItemProxy section */
 
@@ -41,60 +41,61 @@
 		04E1C647AF57A193E6D76A1218FE46B4 /* Pods-XKLocationManager_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-XKLocationManager_Example.release.xcconfig"; sourceTree = "<group>"; };
 		06CCBBF13AF07401CAF733DCEC07CBB6 /* Pods-XKLocationManager_Tests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-XKLocationManager_Tests-Info.plist"; sourceTree = "<group>"; };
 		0FB7053CD6424BB9763CF3B577774845 /* Pods-XKLocationManager_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-XKLocationManager_Example-umbrella.h"; sourceTree = "<group>"; };
+		112C6376FEE08EE8563129504742BC4B /* XKLocationManager-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "XKLocationManager-Info.plist"; sourceTree = "<group>"; };
 		17FB3359D76E75849D213DBCA2A9F64C /* Pods-XKLocationManager_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-XKLocationManager_Example-acknowledgements.plist"; sourceTree = "<group>"; };
-		1D664694051C88F1558E47C8FF9E388E /* XKLocationManager-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "XKLocationManager-prefix.pch"; sourceTree = "<group>"; };
-		2460C3106D3F14DCCCA3ECE1D5CF1DAC /* XKLocationManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = XKLocationManager.h; path = XKLocationManager/Classes/XKLocationManager/XKLocationManager.h; sourceTree = "<group>"; };
-		2513053A7840BF14EDC5C5CA666930F3 /* XKLocationManager.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = XKLocationManager.m; path = XKLocationManager/Classes/XKLocationManager/XKLocationManager.m; sourceTree = "<group>"; };
 		3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		32A96900B187065C7D8C32B21F7AAC89 /* Pods-XKLocationManager_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-XKLocationManager_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		3E07CA8969AED3825FB5B80CE9BA404F /* XKLocationManager.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = XKLocationManager.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		34A2F497E7029AE538BAD3B02DB50D1C /* XKLocationManager-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "XKLocationManager-umbrella.h"; sourceTree = "<group>"; };
 		4345EA3BF826030359B0332A1AAF5EF0 /* Pods-XKLocationManager_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-XKLocationManager_Example-dummy.m"; sourceTree = "<group>"; };
-		4C3963CB4491D89E241654F7479D20EF /* XKLocationManager-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "XKLocationManager-Info.plist"; sourceTree = "<group>"; };
-		4FD466EC1D41698A901BE9C3702BD2A7 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
 		50231051C59C4D0E5FEC07025CECF591 /* Pods-XKLocationManager_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-XKLocationManager_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		5439F779E2BC45B85320C2B4DFEC4B56 /* Pods-XKLocationManager_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-XKLocationManager_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
-		5F7BACCC88E1D484D7F807C8CA00994F /* XKLocationManager-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "XKLocationManager-dummy.m"; sourceTree = "<group>"; };
+		5B98DB5D80BD330A03752329EE28F010 /* XKLocationManager-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "XKLocationManager-dummy.m"; sourceTree = "<group>"; };
+		5C43F1E199B4E9D5D4F180F2E19567E5 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		5E2B6D8C6D57EAAAE50828EC112DCE10 /* XKLocationManager.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = XKLocationManager.debug.xcconfig; sourceTree = "<group>"; };
 		61D907D12BC7C44BCE96AF583C80752A /* Pods_XKLocationManager_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_XKLocationManager_Tests.framework; path = "Pods-XKLocationManager_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
-		637D4FF1049E745689A99918C988FF87 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
 		88B8098145E52DCCB407309E87F14FF9 /* Pods-XKLocationManager_Example-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-XKLocationManager_Example-Info.plist"; sourceTree = "<group>"; };
+		8B579C6856C6DD6337C9CD4881D37441 /* XKLocationManager.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = XKLocationManager.modulemap; sourceTree = "<group>"; };
+		8D0821124C26CE116B36B95E3133C031 /* XKLocationManager-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "XKLocationManager-prefix.pch"; sourceTree = "<group>"; };
+		9738435B2C02912F30C12A7E2F52C5E6 /* XKLocationManager.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = XKLocationManager.m; path = XKLocationManager/Classes/XKLocationManager/XKLocationManager.m; sourceTree = "<group>"; };
 		98F1C7C94E10912770207EB5066127A8 /* Pods-XKLocationManager_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-XKLocationManager_Tests-dummy.m"; sourceTree = "<group>"; };
 		99F601012068DE7641A088657C0FEB22 /* Pods-XKLocationManager_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-XKLocationManager_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		A206E8D4D6CFB1B783070023DEADB0CD /* XKLocationManager.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = XKLocationManager.release.xcconfig; sourceTree = "<group>"; };
 		A241C8BB3EDFBEDB0485FCE82391BE80 /* Pods-XKLocationManager_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-XKLocationManager_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
-		A5977B61CF99396B69FCB44024AB8682 /* XKLocationManager.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = XKLocationManager.modulemap; sourceTree = "<group>"; };
-		B4DA56C9828D2C84C02634792A27ACF0 /* XKLocationManager-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "XKLocationManager-umbrella.h"; sourceTree = "<group>"; };
+		A2AFB243D4C0B4C8FA99C70B50452587 /* XKLocationManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = XKLocationManager.h; path = XKLocationManager/Classes/XKLocationManager/XKLocationManager.h; sourceTree = "<group>"; };
 		C1F77409E3954036A6D8D1B3C067D481 /* Pods-XKLocationManager_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-XKLocationManager_Tests-umbrella.h"; sourceTree = "<group>"; };
 		C24094EB4A8EE3E36FCECF24827EABFF /* XKLocationManager.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = XKLocationManager.framework; path = XKLocationManager.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		C2DAE4E721F8B29DBBA6602C512BFC25 /* XKLocationManager.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = XKLocationManager.xcconfig; sourceTree = "<group>"; };
 		D1CB3C8C05EF6B0F14EBF38B8ED2B9B0 /* Pods-XKLocationManager_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-XKLocationManager_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
 		DC372322FA497388489B93593297EB57 /* Pods-XKLocationManager_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-XKLocationManager_Tests.modulemap"; sourceTree = "<group>"; };
 		DD4B75EA7C41E5740B0EB591D213B2C2 /* Pods_XKLocationManager_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_XKLocationManager_Example.framework; path = "Pods-XKLocationManager_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E947AAF027BF071B03B9396E6E15473C /* Pods-XKLocationManager_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-XKLocationManager_Example.modulemap"; sourceTree = "<group>"; };
+		EA27F4A07CEF6DACB79944AB8E41D4F6 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
 		EE65E141ACE10E406A1712AF0CC31829 /* Pods-XKLocationManager_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-XKLocationManager_Example-frameworks.sh"; sourceTree = "<group>"; };
+		F4B92B511661D8D26684D15855FEC433 /* XKLocationManager.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = XKLocationManager.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		123E012A2AB4E0F8C3DB24F74ABD08FF /* Frameworks */ = {
+		234C6B810BB334743FD6627332EBD962 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F495433DBF0619EF177A6623E2C71308 /* Foundation.framework in Frameworks */,
+				4370099D6E2182B0E419F631F26BB814 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		52EAECBE7C6C876BDF9A46BC33C21889 /* Frameworks */ = {
+		903AC8B3DA273294A90F49170BC029C9 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7103B7A1962F2725C6F844450A03EF8A /* Foundation.framework in Frameworks */,
+				27FF7825342E9A89F0931304DCA4C00D /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		C1441C19E2473AE9310202F2850FD3AC /* Frameworks */ = {
+		E6F62FB6243F5FAE2215A1BE559AAD80 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				DBC01F78E3C0BE75C8CE4F03E3F1AF90 /* Foundation.framework in Frameworks */,
+				6E3C909E4F9140E7FCD33F8120B889DB /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -110,22 +111,49 @@
 			name = "Targets Support Files";
 			sourceTree = "<group>";
 		};
-		32C687736A1DC7BE80E8DFA99C77C38A /* Pod */ = {
+		149EAB9FCE9BFE1D85D2B34540B82825 /* Pod */ = {
 			isa = PBXGroup;
 			children = (
-				637D4FF1049E745689A99918C988FF87 /* LICENSE */,
-				4FD466EC1D41698A901BE9C3702BD2A7 /* README.md */,
-				3E07CA8969AED3825FB5B80CE9BA404F /* XKLocationManager.podspec */,
+				EA27F4A07CEF6DACB79944AB8E41D4F6 /* LICENSE */,
+				5C43F1E199B4E9D5D4F180F2E19567E5 /* README.md */,
+				F4B92B511661D8D26684D15855FEC433 /* XKLocationManager.podspec */,
 			);
 			name = Pod;
+			sourceTree = "<group>";
+		};
+		4009FB49CF4DF3D475C1A136C334FF24 /* XKLocationManager */ = {
+			isa = PBXGroup;
+			children = (
+				A2AFB243D4C0B4C8FA99C70B50452587 /* XKLocationManager.h */,
+				9738435B2C02912F30C12A7E2F52C5E6 /* XKLocationManager.m */,
+				149EAB9FCE9BFE1D85D2B34540B82825 /* Pod */,
+				60BCAE84978D1BB26FA1F3CBEC51016A /* Support Files */,
+			);
+			name = XKLocationManager;
+			path = ../..;
 			sourceTree = "<group>";
 		};
 		57C3C155E019F0D0CE2332CC6BCE0ABB /* Development Pods */ = {
 			isa = PBXGroup;
 			children = (
-				D1025BAA4B85DD1D285106D6F21A5693 /* XKLocationManager */,
+				4009FB49CF4DF3D475C1A136C334FF24 /* XKLocationManager */,
 			);
 			name = "Development Pods";
+			sourceTree = "<group>";
+		};
+		60BCAE84978D1BB26FA1F3CBEC51016A /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				8B579C6856C6DD6337C9CD4881D37441 /* XKLocationManager.modulemap */,
+				5B98DB5D80BD330A03752329EE28F010 /* XKLocationManager-dummy.m */,
+				112C6376FEE08EE8563129504742BC4B /* XKLocationManager-Info.plist */,
+				8D0821124C26CE116B36B95E3133C031 /* XKLocationManager-prefix.pch */,
+				34A2F497E7029AE538BAD3B02DB50D1C /* XKLocationManager-umbrella.h */,
+				5E2B6D8C6D57EAAAE50828EC112DCE10 /* XKLocationManager.debug.xcconfig */,
+				A206E8D4D6CFB1B783070023DEADB0CD /* XKLocationManager.release.xcconfig */,
+			);
+			name = "Support Files";
+			path = "Example/Pods/Target Support Files/XKLocationManager";
 			sourceTree = "<group>";
 		};
 		6AF8EB5B40535ADF47888DA6F0EB5EC7 /* Pods-XKLocationManager_Example */ = {
@@ -180,38 +208,12 @@
 			);
 			sourceTree = "<group>";
 		};
-		D1025BAA4B85DD1D285106D6F21A5693 /* XKLocationManager */ = {
-			isa = PBXGroup;
-			children = (
-				2460C3106D3F14DCCCA3ECE1D5CF1DAC /* XKLocationManager.h */,
-				2513053A7840BF14EDC5C5CA666930F3 /* XKLocationManager.m */,
-				32C687736A1DC7BE80E8DFA99C77C38A /* Pod */,
-				D85F296C7264B34EC189DA3597975E1B /* Support Files */,
-			);
-			name = XKLocationManager;
-			path = ../..;
-			sourceTree = "<group>";
-		};
 		D210D550F4EA176C3123ED886F8F87F5 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
 				C0834CEBB1379A84116EF29F93051C60 /* iOS */,
 			);
 			name = Frameworks;
-			sourceTree = "<group>";
-		};
-		D85F296C7264B34EC189DA3597975E1B /* Support Files */ = {
-			isa = PBXGroup;
-			children = (
-				A5977B61CF99396B69FCB44024AB8682 /* XKLocationManager.modulemap */,
-				C2DAE4E721F8B29DBBA6602C512BFC25 /* XKLocationManager.xcconfig */,
-				5F7BACCC88E1D484D7F807C8CA00994F /* XKLocationManager-dummy.m */,
-				4C3963CB4491D89E241654F7479D20EF /* XKLocationManager-Info.plist */,
-				1D664694051C88F1558E47C8FF9E388E /* XKLocationManager-prefix.pch */,
-				B4DA56C9828D2C84C02634792A27ACF0 /* XKLocationManager-umbrella.h */,
-			);
-			name = "Support Files";
-			path = "Example/Pods/Target Support Files/XKLocationManager";
 			sourceTree = "<group>";
 		};
 		DD907695CE57CD24A490209378AEABA4 /* Products */ = {
@@ -227,28 +229,28 @@
 /* End PBXGroup section */
 
 /* Begin PBXHeadersBuildPhase section */
-		689EBF9F5CF5DF5014A8ED1E8B4E34D8 /* Headers */ = {
+		2B90650335B456EC66177718D8B9420C /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4D230ED74C203E9E29A37B32496D6628 /* Pods-XKLocationManager_Tests-umbrella.h in Headers */,
+				634D4F5F870BE9F1D0FA9DC1246F76C2 /* Pods-XKLocationManager_Example-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		83CB1BB4D5348F70E950D19224FEA5AA /* Headers */ = {
+		4084165FFC8A7FF123BBA8747E0E5B15 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5D5FB234003EB9979DE514DD6696E974 /* Pods-XKLocationManager_Example-umbrella.h in Headers */,
+				67652A5490A69A0233EF40502AAF301D /* Pods-XKLocationManager_Tests-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		88E06526FA3B48313D8D321CE07D94F5 /* Headers */ = {
+		DCCB6900C0BA8A0E07A881BDF1270237 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				BF965B9CDCBFA3E6ABE7F69AB3B87D61 /* XKLocationManager-umbrella.h in Headers */,
-				FB0694FE998D56D26FB2CC664BECF5E9 /* XKLocationManager.h in Headers */,
+				60ACED9D543780C64D049C7AF5BA2036 /* XKLocationManager-umbrella.h in Headers */,
+				3ADA6AC2050BF4EABA71926FAC995544 /* XKLocationManager.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -257,12 +259,12 @@
 /* Begin PBXNativeTarget section */
 		1F019E07DA072DBE602E7447C1A72B15 /* XKLocationManager */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 5E9CBD30BBF31733D9EE1E1C6DF6FC5A /* Build configuration list for PBXNativeTarget "XKLocationManager" */;
+			buildConfigurationList = C67BC690FAFBA6C46052A85E51D6A02D /* Build configuration list for PBXNativeTarget "XKLocationManager" */;
 			buildPhases = (
-				88E06526FA3B48313D8D321CE07D94F5 /* Headers */,
-				17397DA8C31226E5809632E43B55CC4E /* Sources */,
-				52EAECBE7C6C876BDF9A46BC33C21889 /* Frameworks */,
-				25FA4C314ADBECD20BB46F52D237D212 /* Resources */,
+				DCCB6900C0BA8A0E07A881BDF1270237 /* Headers */,
+				B10AC2C6FF5ED3A19180CC71D8C5A419 /* Sources */,
+				903AC8B3DA273294A90F49170BC029C9 /* Frameworks */,
+				EFA331E17B636F55F4E966BF13B3FE3B /* Resources */,
 			);
 			buildRules = (
 			);
@@ -275,17 +277,17 @@
 		};
 		791B6E9B9927982EABC152F461D31791 /* Pods-XKLocationManager_Tests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 5AB74EF9200AAA4575744D9DF7A1BFF3 /* Build configuration list for PBXNativeTarget "Pods-XKLocationManager_Tests" */;
+			buildConfigurationList = A5647DF596782E43CE57F18D36A72705 /* Build configuration list for PBXNativeTarget "Pods-XKLocationManager_Tests" */;
 			buildPhases = (
-				689EBF9F5CF5DF5014A8ED1E8B4E34D8 /* Headers */,
-				FF544D62DB693D6CE63ED0D411722FEE /* Sources */,
-				123E012A2AB4E0F8C3DB24F74ABD08FF /* Frameworks */,
-				C3EC3994ABAE3ECA60728C27F5BC1B8B /* Resources */,
+				4084165FFC8A7FF123BBA8747E0E5B15 /* Headers */,
+				BD1CD3EA01F3A064155B298536DB63DD /* Sources */,
+				E6F62FB6243F5FAE2215A1BE559AAD80 /* Frameworks */,
+				45E1C2A4FE4A1BA5180567B1FFC60373 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				946464891720A72C51F75CC484A93FB3 /* PBXTargetDependency */,
+				F9BBE7F52DCE47246AAD84D663E1566F /* PBXTargetDependency */,
 			);
 			name = "Pods-XKLocationManager_Tests";
 			productName = "Pods-XKLocationManager_Tests";
@@ -294,17 +296,17 @@
 		};
 		B201DC970684CCCF42A12616AFB03785 /* Pods-XKLocationManager_Example */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = CDAAFF8E1888AB941FFE730E4C353D1E /* Build configuration list for PBXNativeTarget "Pods-XKLocationManager_Example" */;
+			buildConfigurationList = D2459F66A52462693E51BBC27717D622 /* Build configuration list for PBXNativeTarget "Pods-XKLocationManager_Example" */;
 			buildPhases = (
-				83CB1BB4D5348F70E950D19224FEA5AA /* Headers */,
-				BF6E1A5FBDEECBE6AEFEF966330123E0 /* Sources */,
-				C1441C19E2473AE9310202F2850FD3AC /* Frameworks */,
-				DDD19736175B2D20820A0CF9B4274C46 /* Resources */,
+				2B90650335B456EC66177718D8B9420C /* Headers */,
+				0662A267C041137EC203982239A3A3B6 /* Sources */,
+				234C6B810BB334743FD6627332EBD962 /* Frameworks */,
+				B1ABEE4CF93162830908C8D87FFFFEE8 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				3D7B036393CC5D40FE125004E39DA197 /* PBXTargetDependency */,
+				B83396CBEA4D89DAB1BB8D7A879CBF8D /* PBXTargetDependency */,
 			);
 			name = "Pods-XKLocationManager_Example";
 			productName = "Pods-XKLocationManager_Example";
@@ -317,8 +319,8 @@
 		BFDFE7DC352907FC980B868725387E98 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastSwiftUpdateCheck = 1020;
-				LastUpgradeCheck = 1020;
+				LastSwiftUpdateCheck = 1100;
+				LastUpgradeCheck = 1100;
 			};
 			buildConfigurationList = 4821239608C13582E20E6DA73FD5F1F9 /* Build configuration list for PBXProject "Pods" */;
 			compatibilityVersion = "Xcode 3.2";
@@ -326,6 +328,7 @@
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
+				Base,
 			);
 			mainGroup = CF1408CF629C7361332E53B88F7BD30C;
 			productRefGroup = DD907695CE57CD24A490209378AEABA4 /* Products */;
@@ -340,21 +343,21 @@
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		25FA4C314ADBECD20BB46F52D237D212 /* Resources */ = {
+		45E1C2A4FE4A1BA5180567B1FFC60373 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		C3EC3994ABAE3ECA60728C27F5BC1B8B /* Resources */ = {
+		B1ABEE4CF93162830908C8D87FFFFEE8 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		DDD19736175B2D20820A0CF9B4274C46 /* Resources */ = {
+		EFA331E17B636F55F4E966BF13B3FE3B /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -364,49 +367,82 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		17397DA8C31226E5809632E43B55CC4E /* Sources */ = {
+		0662A267C041137EC203982239A3A3B6 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3BFDFD18CC2683A19368A9139F98E60D /* XKLocationManager-dummy.m in Sources */,
-				C6E918AD8A3261154684B8202FDD984E /* XKLocationManager.m in Sources */,
+				0D4E1030DCADAD78123AF037B540F7E4 /* Pods-XKLocationManager_Example-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		BF6E1A5FBDEECBE6AEFEF966330123E0 /* Sources */ = {
+		B10AC2C6FF5ED3A19180CC71D8C5A419 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				02362453C2AF428D56DFE2AB36069059 /* Pods-XKLocationManager_Example-dummy.m in Sources */,
+				F302D14C4C1E49D4A2E960FF5C19C722 /* XKLocationManager-dummy.m in Sources */,
+				D22401F3B7B8E73109C943DAC4CA4224 /* XKLocationManager.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		FF544D62DB693D6CE63ED0D411722FEE /* Sources */ = {
+		BD1CD3EA01F3A064155B298536DB63DD /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D33F9CCF035DAF5BAB89A926A4621B1E /* Pods-XKLocationManager_Tests-dummy.m in Sources */,
+				AB971D8802BEF3FE0FC1F141A080D98C /* Pods-XKLocationManager_Tests-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		3D7B036393CC5D40FE125004E39DA197 /* PBXTargetDependency */ = {
+		B83396CBEA4D89DAB1BB8D7A879CBF8D /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = XKLocationManager;
 			target = 1F019E07DA072DBE602E7447C1A72B15 /* XKLocationManager */;
-			targetProxy = D31C4CDE8E8D4A5686926F389B538A0F /* PBXContainerItemProxy */;
+			targetProxy = 9530E53DED627B329E881996865DF246 /* PBXContainerItemProxy */;
 		};
-		946464891720A72C51F75CC484A93FB3 /* PBXTargetDependency */ = {
+		F9BBE7F52DCE47246AAD84D663E1566F /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = "Pods-XKLocationManager_Example";
 			target = B201DC970684CCCF42A12616AFB03785 /* Pods-XKLocationManager_Example */;
-			targetProxy = A575E2756D6D5638DAD9A4F6C71F544D /* PBXContainerItemProxy */;
+			targetProxy = C95928851539F0343AE1904AE317A9BD /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
+		1611EB19E3A96AE5872432B3B0DBC855 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = A206E8D4D6CFB1B783070023DEADB0CD /* XKLocationManager.release.xcconfig */;
+			buildSettings = {
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/XKLocationManager/XKLocationManager-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/XKLocationManager/XKLocationManager-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/XKLocationManager/XKLocationManager.modulemap";
+				PRODUCT_MODULE_NAME = XKLocationManager;
+				PRODUCT_NAME = XKLocationManager;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
 		196DFA3E4A09A28224918543529A1885 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
@@ -471,41 +507,9 @@
 			};
 			name = Debug;
 		};
-		20C928A96A122C4E70F6FACC1D546D32 /* Debug */ = {
+		3F132E2733FA3212C495855901B36B5C /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = C2DAE4E721F8B29DBBA6602C512BFC25 /* XKLocationManager.xcconfig */;
-			buildSettings = {
-				CLANG_ENABLE_OBJC_WEAK = NO;
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/XKLocationManager/XKLocationManager-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/XKLocationManager/XKLocationManager-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/XKLocationManager/XKLocationManager.modulemap";
-				PRODUCT_MODULE_NAME = XKLocationManager;
-				PRODUCT_NAME = XKLocationManager;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 4.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
-		2E1098186AD332C9F002B09ADD1DDC92 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 50231051C59C4D0E5FEC07025CECF591 /* Pods-XKLocationManager_Tests.release.xcconfig */;
+			baseConfigurationReference = 04E1C647AF57A193E6D76A1218FE46B4 /* Pods-XKLocationManager_Example.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
 				CLANG_ENABLE_OBJC_WEAK = NO;
@@ -518,12 +522,12 @@
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "Target Support Files/Pods-XKLocationManager_Tests/Pods-XKLocationManager_Tests-Info.plist";
+				INFOPLIST_FILE = "Target Support Files/Pods-XKLocationManager_Example/Pods-XKLocationManager_Example-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-XKLocationManager_Tests/Pods-XKLocationManager_Tests.modulemap";
+				MODULEMAP_FILE = "Target Support Files/Pods-XKLocationManager_Example/Pods-XKLocationManager_Example.modulemap";
 				OTHER_LDFLAGS = "";
 				OTHER_LIBTOOLFLAGS = "";
 				PODS_ROOT = "$(SRCROOT)";
@@ -538,7 +542,7 @@
 			};
 			name = Release;
 		};
-		59A2230C690CE569554AF0BE46658837 /* Debug */ = {
+		4A0D0A7DEE0BF4E18CD9C1A21A4713E9 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 32A96900B187065C7D8C32B21F7AAC89 /* Pods-XKLocationManager_Example.debug.xcconfig */;
 			buildSettings = {
@@ -572,7 +576,39 @@
 			};
 			name = Debug;
 		};
-		6BA26A44EBDEAFEBFE1BE17761911084 /* Debug */ = {
+		4EC5B66374E132D115AFB5E92640835A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 5E2B6D8C6D57EAAAE50828EC112DCE10 /* XKLocationManager.debug.xcconfig */;
+			buildSettings = {
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/XKLocationManager/XKLocationManager-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/XKLocationManager/XKLocationManager-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/XKLocationManager/XKLocationManager.modulemap";
+				PRODUCT_MODULE_NAME = XKLocationManager;
+				PRODUCT_NAME = XKLocationManager;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		519BB13F35285F2474D36A062EBAC316 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 99F601012068DE7641A088657C0FEB22 /* Pods-XKLocationManager_Tests.debug.xcconfig */;
 			buildSettings = {
@@ -606,10 +642,11 @@
 			};
 			name = Debug;
 		};
-		A0A16B67B7F7401C9490166F55C24CD4 /* Release */ = {
+		AAEAFFDF029150F6318889327C80ABA5 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = C2DAE4E721F8B29DBBA6602C512BFC25 /* XKLocationManager.xcconfig */;
+			baseConfigurationReference = 50231051C59C4D0E5FEC07025CECF591 /* Pods-XKLocationManager_Tests.release.xcconfig */;
 			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
 				CLANG_ENABLE_OBJC_WEAK = NO;
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
@@ -620,18 +657,19 @@
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/XKLocationManager/XKLocationManager-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/XKLocationManager/XKLocationManager-Info.plist";
+				INFOPLIST_FILE = "Target Support Files/Pods-XKLocationManager_Tests/Pods-XKLocationManager_Tests-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/XKLocationManager/XKLocationManager.modulemap";
-				PRODUCT_MODULE_NAME = XKLocationManager;
-				PRODUCT_NAME = XKLocationManager;
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-XKLocationManager_Tests/Pods-XKLocationManager_Tests.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
 				VERSIONING_SYSTEM = "apple-generic";
@@ -699,41 +737,6 @@
 			};
 			name = Release;
 		};
-		BAB77986666B0A3CC54FE9B37B8D4C1B /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 04E1C647AF57A193E6D76A1218FE46B4 /* Pods-XKLocationManager_Example.release.xcconfig */;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
-				CLANG_ENABLE_OBJC_WEAK = NO;
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "Target Support Files/Pods-XKLocationManager_Example/Pods-XKLocationManager_Example-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-XKLocationManager_Example/Pods-XKLocationManager_Example.modulemap";
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
-		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
@@ -746,29 +749,29 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		5AB74EF9200AAA4575744D9DF7A1BFF3 /* Build configuration list for PBXNativeTarget "Pods-XKLocationManager_Tests" */ = {
+		A5647DF596782E43CE57F18D36A72705 /* Build configuration list for PBXNativeTarget "Pods-XKLocationManager_Tests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				6BA26A44EBDEAFEBFE1BE17761911084 /* Debug */,
-				2E1098186AD332C9F002B09ADD1DDC92 /* Release */,
+				519BB13F35285F2474D36A062EBAC316 /* Debug */,
+				AAEAFFDF029150F6318889327C80ABA5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		5E9CBD30BBF31733D9EE1E1C6DF6FC5A /* Build configuration list for PBXNativeTarget "XKLocationManager" */ = {
+		C67BC690FAFBA6C46052A85E51D6A02D /* Build configuration list for PBXNativeTarget "XKLocationManager" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				20C928A96A122C4E70F6FACC1D546D32 /* Debug */,
-				A0A16B67B7F7401C9490166F55C24CD4 /* Release */,
+				4EC5B66374E132D115AFB5E92640835A /* Debug */,
+				1611EB19E3A96AE5872432B3B0DBC855 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		CDAAFF8E1888AB941FFE730E4C353D1E /* Build configuration list for PBXNativeTarget "Pods-XKLocationManager_Example" */ = {
+		D2459F66A52462693E51BBC27717D622 /* Build configuration list for PBXNativeTarget "Pods-XKLocationManager_Example" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				59A2230C690CE569554AF0BE46658837 /* Debug */,
-				BAB77986666B0A3CC54FE9B37B8D4C1B /* Release */,
+				4A0D0A7DEE0BF4E18CD9C1A21A4713E9 /* Debug */,
+				3F132E2733FA3212C495855901B36B5C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;

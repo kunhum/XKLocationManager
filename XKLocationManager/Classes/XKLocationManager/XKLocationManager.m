@@ -109,6 +109,8 @@
     else {
         [self xk_stop];
     }
+    
+    !self.xk_locationStatusDidChange ?: self.xk_locationStatusDidChange(self.locationManager, status);
 }
 
 #pragma mark 根据地址编辑坐标

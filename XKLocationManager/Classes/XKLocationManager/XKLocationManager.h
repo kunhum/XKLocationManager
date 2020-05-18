@@ -32,6 +32,8 @@ typedef NS_ENUM(NSInteger, XKLocationType) {
 
 @property (nonatomic, copy) void(^xk_didFinishLocation)(CLLocation *location, CLLocationCoordinate2D coordinate, CLPlacemark *placemark, NSString *city);
 
+@property (nonatomic, copy) void(^xk_locationStatusDidChange)(CLLocationManager *manager, CLAuthorizationStatus status);
+
 @property (nonatomic, copy) void(^xk_fail)(NSError *error);
 
 @property (nonatomic, assign) XKLocationType type;
